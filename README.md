@@ -7,4 +7,8 @@ Use the EvolveMarkets MT5 installer then open a [live or demo account](http://bi
 [Setup](https://twitter.com/fx4btc/status/1194556309812563968)
 ![Best Bid Ask from Bybit and Bitmex](https://i.imgur.com/3Q1r019.png)
 
+# Price Indicator 
+![Best Bid Ask from Bybit and Bitmex](https://i.imgur.com/wQCB4cY.png)
+
+
 
